@@ -137,7 +137,7 @@ export function Navbar({}: NavbarProps) {
                 <InstagramIcon />
               </a>
               <span className="text-[#8A9CC4] text-sm" style={{ fontFamily: "'Inter', sans-serif" }}>
-                @lightupdesigner
+                @lightup.mkt
               </span>
             </div>
 

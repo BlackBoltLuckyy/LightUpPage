@@ -59,7 +59,7 @@ export function Footer({}: FooterProps) {
             style={{ fontFamily: "'Inter', sans-serif", fontSize: '0.9rem' }}
           >
             <InstagramIcon />
-            @lightupdesigner
+            @lightup.mkt
           </a>
 
           <span className="text-[#1A3A8F] hidden sm:block">|</span>

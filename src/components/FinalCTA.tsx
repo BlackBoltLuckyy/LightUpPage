@@ -93,7 +93,7 @@ export function FinalCTA({}: FinalCTAProps) {
             style={{ fontFamily: "'Inter', sans-serif" }}
           >
             <InstagramIcon />
-            @lightupdesigner
+            @lightup.mkt
           </a>
 
           <span className="text-[#1A3A8F] hidden sm:block">·</span>
