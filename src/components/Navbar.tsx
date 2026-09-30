@@ -28,6 +28,7 @@ function NavBulbIcon() {
 
 const navLinks = [
   { label: 'Serviços', href: '#servicos' },
+  { label: 'Site Express', href: '#site-express' },
   { label: 'Como Funciona', href: '#como-funciona' },
   { label: 'Por Que Nós', href: '#por-que-nos' },
   { label: 'FAQ', href: '#faq' },

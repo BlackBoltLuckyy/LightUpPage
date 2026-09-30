@@ -4,6 +4,7 @@ import { TrustBar } from './components/TrustBar'
 import { PainSection } from './components/PainSection'
 import { SolutionSection } from './components/SolutionSection'
 import { ServicesSection } from './components/ServicesSection'
+import { SiteExpress } from './components/SiteExpress'
 import { TechStack } from './components/TechStack'
 import { SocialProof } from './components/SocialProof'
 import { HowItWorks } from './components/HowItWorks'
@@ -40,6 +41,7 @@ export function LandingPage() {
         <PainSection />
         <SolutionSection />
         <ServicesSection />
+        <SiteExpress />
         <TechStack />
         <SocialProof />
         <HowItWorks />
