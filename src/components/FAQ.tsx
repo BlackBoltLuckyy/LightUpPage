@@ -14,10 +14,6 @@ const faqs: FAQItem[] = [
     answer: 'Os investimentos variam conforme o escopo — tráfego, design, automação, desenvolvimento. Fazemos uma proposta personalizada após entender o seu negócio. Agende uma conversa e a gente apresenta opções que cabem na sua realidade.',
   },
   {
-    question: 'Vocês atendem empresas fora de São Paulo?',
-    answer: 'Sim. Atuamos 100% online e atendemos clientes em todo o Brasil. Nossa equipe é distribuída e toda a comunicação, entrega e relatórios acontecem de forma digital.',
-  },
-  {
     question: 'Como funciona o onboarding?',
     answer: 'Após a assinatura, realizamos um briefing completo com você. Levantamos todos os ativos existentes (logo, materiais, senhas de anúncios, acessos), definimos metas e alinhamos o calendário das entregas da primeira fase.',
   },
