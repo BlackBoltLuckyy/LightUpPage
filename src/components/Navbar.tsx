@@ -113,7 +113,7 @@ export function Navbar({}: NavbarProps) {
             menuOpen ? 'max-h-[480px] opacity-100' : 'max-h-0 opacity-0'
           }`}
         >
-          <div className="border-t border-[#1A3A8F]/40 pb-6 pt-4 flex flex-col gap-1">
+          <div className="border-t border-[#1A3A8F]/40 bg-[#07071A] pb-6 pt-4 flex flex-col gap-1">
             {navLinks.map(link => (
               <a
                 key={link.href}
