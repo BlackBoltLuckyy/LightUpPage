@@ -18,7 +18,7 @@ export function LandingPage() {
   return (
     <>
       <style>{`
-        @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;500&family=JetBrains+Mono:wght@400;500&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;500&family=JetBrains+Mono:wght@400;500&family=DM+Sans:wght@400;500&family=Kaushan+Script&display=swap');
 
         *, *::before, *::after { box-sizing: border-box; }
         html { scroll-behavior: smooth; }
